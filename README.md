@@ -26,8 +26,12 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 > Fun fact: My name is so nice, they named me twice! If you have more jokes about my name, I wanna hear them!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+## 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
-## GitHub Stats
-![Alperen's GitHub stats](https://github-readme-stats.vercel.app/api?username=aalperen-dev&show_icons=true&theme=radical)
+
+## 📊 GitHub Stats:
+
+ ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aalperen-dev&theme=github_dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-streak-stats.herokuapp.com/?user=aalperen-dev&theme=github_dark&hide_border=true) 
+
+
