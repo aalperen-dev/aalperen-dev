@@ -1,6 +1,6 @@
 # Hi there, I'm Alperen Alperen 👋
 
-![GitHub followers](https://img.shields.io/github/followers/aalperen-dev?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)
+![GitHub followers](https://img.shields.io/github/followers/aalperen-dev?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) <p align="left"> <img src="https://komarev.com/ghpvc/?username=aalperen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aalperen-dev" /> </p>
 
 ## About Me
 I'm a passionate **Flutter enthusiast** and avid learner based in Balikesir. I enjoy building mobile applications and exploring new technologies.
@@ -33,4 +33,4 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aalperen-dev&label=Profile%20views&color=0e75b6&style=flat" alt="aalperen-dev" /> </p>
+
