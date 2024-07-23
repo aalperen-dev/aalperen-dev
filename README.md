@@ -2,14 +2,14 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/aalperen-dev?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) ![](https://komarev.com/ghpvc/?username=aalperen-dev)
 
-## About Me
+## 👨🏻‍💻 About Me:
 I'm a passionate **Flutter enthusiast** and avid learner based in Balikesir. I enjoy building mobile applications and exploring new technologies.
 
 - 🌱 I’m currently learning more about **advanced Flutter techniques**.
 - 💼 I’m actively looking for **job opportunities** or **paid internships**.
 - 💬 Ask me about **Flutter**, **Dart**, or any tech-related topics.
 
-## Projects
+## 🚀 Projects:
 Here are some of my favorite projects:
 
 ### [Tobeto](https://github.com/engnect/tobeto)
@@ -18,7 +18,7 @@ A collaborative project focused on learning and development. Check out my contri
 ### [Instagram Clone](https://github.com/aalperen-dev/instagram_app)
 An Instagram clone based on a YouTube video tutorial. Built with Flutter and Dart.
 
-## Get In Touch
+## 💬 Get In Touch:
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
 - 📧 [aalperen@icloud.com](mailto:aalperen@icloud.com)
