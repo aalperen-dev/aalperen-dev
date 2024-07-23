@@ -25,7 +25,7 @@ An Instagram clone based on a YouTube video tutorial. Built with Flutter and Dar
 ## Get In Touch
 Feel free to reach out if you have any questions or want to collaborate on a project!
 
-- 📧 Email: [aalperen@icloud.com](mailto:aalperen@icloud.com)
+- 📧 [aalperen@icloud.com](mailto:aalperen@icloud.com)
 - 📫 [LinkedIn](https://www.linkedin.com/in/aalperen)
 
 > Fun fact: My name is so nice, they named me twice! If you have more jokes about my name, I wanna hear them!
