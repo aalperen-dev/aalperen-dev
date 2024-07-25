@@ -1,6 +1,6 @@
 # Hi there, I'm Alperen Alperen 👋
 
-![GitHub followers](https://img.shields.io/github/followers/aalperen-dev?label=Follow&style=social) ![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) ![](https://komarev.com/ghpvc/?username=aalperen-dev)
+![GitHub followers](https://img.shields.io/github/followers/aalperen-dev?label=Follow&style=social) ![https://www.linkedin.com/in/aalperen/](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin) ![](https://komarev.com/ghpvc/?username=aalperen-dev)
 
 ## 👨🏻‍💻 About Me:
 I'm a passionate **Flutter enthusiast** and avid learner based in Balikesir. I enjoy building mobile applications and exploring new technologies.
