@@ -13,6 +13,9 @@ Here are some of my favorite projects:
 ### [Tobeto](https://github.com/engnect/tobeto)
 A collaborative project focused on learning and development. Check out my contributions!
 
+### [Spotify Clone / Music App](https://github.com/aalperen-dev/spotify_clone)
+A music streaming/playing app based on a YouTube video tutorial. Built with Flutter, Dart, FastAPI and Cloudinary.
+
 ### [Instagram Clone](https://github.com/aalperen-dev/instagram_app)
 An Instagram clone based on a YouTube video tutorial. Built with Flutter and Dart.
 
