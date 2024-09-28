@@ -16,6 +16,9 @@ A collaborative project focused on learning and development. Check out my contri
 ### [Spotify Clone / Music App](https://github.com/aalperen-dev/spotify_clone)
 A music streaming/playing app based on a YouTube video tutorial. Built with Flutter, Dart, FastAPI and Cloudinary.
 
+### [Blog App](https://github.com/aalperen-dev/blog_app)
+A simple blog app based on a YouTube video tutorial. Built with Flutter, Dart, Supabase.
+
 ### [Instagram Clone](https://github.com/aalperen-dev/instagram_app)
 An Instagram clone based on a YouTube video tutorial. Built with Flutter and Dart.
 
