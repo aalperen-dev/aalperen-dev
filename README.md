@@ -10,17 +10,11 @@ I'm a passionate **Flutter enthusiast** and avid learner based in Balikesir. I e
 ## 🚀 Projects:
 Here are some of my favorite projects:
 
-### [Tobeto](https://github.com/engnect/tobeto)
+### [Tobeto](https://github.com/aalperen-dev/tobeto_fork)
 A collaborative project focused on learning and development. Check out my contributions!
 
-### [Spotify Clone / Music App](https://github.com/aalperen-dev/spotify_clone)
-A music streaming/playing app based on a YouTube video tutorial. Built with Flutter, Dart, FastAPI and Cloudinary.
-
-### [Blog App](https://github.com/aalperen-dev/blog_app)
-A simple blog app based on a YouTube video tutorial. Built with Flutter, Dart, Supabase.
-
-### [Instagram Clone](https://github.com/aalperen-dev/instagram_app)
-An Instagram clone based on a YouTube video tutorial. Built with Flutter and Dart.
+### [promise_tracker](https://github.com/aalperen-dev/promise_tracker/)
+A simple Flutter app for tracking daily personal commitments or habits. Designed to help users stay consistent by logging their promises and checking progress over time.
 
 ## 💬 Get In Touch:
 Feel free to reach out if you have any questions or want to collaborate on a project!
